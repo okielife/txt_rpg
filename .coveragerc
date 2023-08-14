@@ -1,0 +1,6 @@
+[run]
+source = txt_rpg
+
+[report]
+omit =
+    */some/pattern/*
